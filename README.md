@@ -1,2 +1,3 @@
-# STRIKE-DSA
-Notes of STRIKE DSA
+# 🚀 STRIKE Live DSA Course
+
+**This repository contains all course notes, codes & projects**
